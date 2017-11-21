@@ -1,5 +1,3 @@
-using System.IO;
-
 public interface IStorageStrategy {
     void Upload(Strategy.File file);
     void Delete(Strategy.File file);

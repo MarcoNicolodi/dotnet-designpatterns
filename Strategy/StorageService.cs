@@ -30,6 +30,5 @@ namespace Strategy {
         {
             _strategy.Move(file, path);
         }
-        
     }
 }
