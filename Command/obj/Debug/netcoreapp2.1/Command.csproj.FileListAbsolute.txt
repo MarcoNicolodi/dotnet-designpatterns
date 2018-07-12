@@ -1,0 +1,11 @@
+/home/slim/Área de Trabalho/dev/design-patterns/Command/bin/Debug/netcoreapp2.1/Command.deps.json
+/home/slim/Área de Trabalho/dev/design-patterns/Command/bin/Debug/netcoreapp2.1/Command.runtimeconfig.json
+/home/slim/Área de Trabalho/dev/design-patterns/Command/bin/Debug/netcoreapp2.1/Command.runtimeconfig.dev.json
+/home/slim/Área de Trabalho/dev/design-patterns/Command/bin/Debug/netcoreapp2.1/Command.dll
+/home/slim/Área de Trabalho/dev/design-patterns/Command/bin/Debug/netcoreapp2.1/Command.pdb
+/home/slim/Área de Trabalho/dev/design-patterns/Command/obj/Debug/netcoreapp2.1/Command.csprojAssemblyReference.cache
+/home/slim/Área de Trabalho/dev/design-patterns/Command/obj/Debug/netcoreapp2.1/Command.csproj.CoreCompileInputs.cache
+/home/slim/Área de Trabalho/dev/design-patterns/Command/obj/Debug/netcoreapp2.1/Command.AssemblyInfoInputs.cache
+/home/slim/Área de Trabalho/dev/design-patterns/Command/obj/Debug/netcoreapp2.1/Command.AssemblyInfo.cs
+/home/slim/Área de Trabalho/dev/design-patterns/Command/obj/Debug/netcoreapp2.1/Command.dll
+/home/slim/Área de Trabalho/dev/design-patterns/Command/obj/Debug/netcoreapp2.1/Command.pdb
