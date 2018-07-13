@@ -4,7 +4,6 @@
     // For further information visit https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md
     "version": "0.2.0",
     "configurations": [
-        
         {
             "name": ".NET Core Launch (Command)",
             "type": "coreclr",
@@ -30,6 +29,21 @@
                 "${workspaceFolder}/Decorator/bin/Debug/netcoreapp2.1/Decorator.dll",
             "args": [],
             "cwd": "${workspaceFolder}/Decorator",
+            // For more information about the 'console' field, see https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md#console-terminal-window
+            "console": "internalConsole",
+            "stopAtEntry": false,
+            "internalConsoleOptions": "openOnSessionStart"
+        },
+        {
+            "name": ".NET Core Launch (Memento)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            // If you have changed target frameworks, make sure to update the program path.
+            "program":
+                "${workspaceFolder}/Memento/bin/Debug/netcoreapp2.1/Memento.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Memento",
             // For more information about the 'console' field, see https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md#console-terminal-window
             "console": "internalConsole",
             "stopAtEntry": false,

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Deco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{FF3970A3-97F4-4C51-A815-3B1B8DDFE9B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "Memento\Memento.csproj", "{C55BBBB1-777D-42F0-B89A-838907148A88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,5 +60,17 @@ Global
 		{FF3970A3-97F4-4C51-A815-3B1B8DDFE9B9}.Release|x64.Build.0 = Release|Any CPU
 		{FF3970A3-97F4-4C51-A815-3B1B8DDFE9B9}.Release|x86.ActiveCfg = Release|Any CPU
 		{FF3970A3-97F4-4C51-A815-3B1B8DDFE9B9}.Release|x86.Build.0 = Release|Any CPU
+		{C55BBBB1-777D-42F0-B89A-838907148A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C55BBBB1-777D-42F0-B89A-838907148A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C55BBBB1-777D-42F0-B89A-838907148A88}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C55BBBB1-777D-42F0-B89A-838907148A88}.Debug|x64.Build.0 = Debug|Any CPU
+		{C55BBBB1-777D-42F0-B89A-838907148A88}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C55BBBB1-777D-42F0-B89A-838907148A88}.Debug|x86.Build.0 = Debug|Any CPU
+		{C55BBBB1-777D-42F0-B89A-838907148A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C55BBBB1-777D-42F0-B89A-838907148A88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C55BBBB1-777D-42F0-B89A-838907148A88}.Release|x64.ActiveCfg = Release|Any CPU
+		{C55BBBB1-777D-42F0-B89A-838907148A88}.Release|x64.Build.0 = Release|Any CPU
+		{C55BBBB1-777D-42F0-B89A-838907148A88}.Release|x86.ActiveCfg = Release|Any CPU
+		{C55BBBB1-777D-42F0-B89A-838907148A88}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

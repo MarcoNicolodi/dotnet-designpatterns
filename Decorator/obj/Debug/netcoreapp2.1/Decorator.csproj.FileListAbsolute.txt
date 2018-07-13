@@ -3,9 +3,9 @@
 /home/slim/Área de Trabalho/dev/design-patterns/Decorator/bin/Debug/netcoreapp2.1/Decorator.runtimeconfig.dev.json
 /home/slim/Área de Trabalho/dev/design-patterns/Decorator/bin/Debug/netcoreapp2.1/Decorator.dll
 /home/slim/Área de Trabalho/dev/design-patterns/Decorator/bin/Debug/netcoreapp2.1/Decorator.pdb
+/home/slim/Área de Trabalho/dev/design-patterns/Decorator/obj/Debug/netcoreapp2.1/Decorator.csprojAssemblyReference.cache
 /home/slim/Área de Trabalho/dev/design-patterns/Decorator/obj/Debug/netcoreapp2.1/Decorator.csproj.CoreCompileInputs.cache
 /home/slim/Área de Trabalho/dev/design-patterns/Decorator/obj/Debug/netcoreapp2.1/Decorator.AssemblyInfoInputs.cache
 /home/slim/Área de Trabalho/dev/design-patterns/Decorator/obj/Debug/netcoreapp2.1/Decorator.AssemblyInfo.cs
 /home/slim/Área de Trabalho/dev/design-patterns/Decorator/obj/Debug/netcoreapp2.1/Decorator.dll
 /home/slim/Área de Trabalho/dev/design-patterns/Decorator/obj/Debug/netcoreapp2.1/Decorator.pdb
-/home/slim/Área de Trabalho/dev/design-patterns/Decorator/obj/Debug/netcoreapp2.1/Decorator.csprojAssemblyReference.cache
