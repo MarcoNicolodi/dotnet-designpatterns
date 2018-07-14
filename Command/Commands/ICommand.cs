@@ -4,4 +4,9 @@ namespace Command
     {
         void Execute();
     }
+
+    public interface IUndoableCommand : ICommand
+    {
+        void Undo();
+    }
 }

@@ -1,6 +1,6 @@
 namespace Command
 {
-    public class TurnOnRadioCommand : ICommand
+    public class TurnOnRadioCommand : IUndoableCommand
     {
         private IEletricalComponent _receiver;
 
@@ -9,6 +9,11 @@ namespace Command
             _receiver = receiver;
         }
         public void Execute()
+        {
+            _receiver.TurnOnRadio();
+        }
+
+        public void Undo()
         {
             _receiver.TurnOnRadio();
         }

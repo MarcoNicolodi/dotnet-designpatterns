@@ -1,6 +1,6 @@
 namespace Command
 {
-    public class TurnOnHeatCommand : ICommand
+    public class TurnOnHeatCommand : IUndoableCommand
     {
         private IEletricalComponent _receiver;
 
@@ -12,6 +12,11 @@ namespace Command
         public void Execute()
         {
             _receiver.TurnOnHeat();
+        }
+
+        public void Undo()
+        {
+            _receiver.TurnOffHeat();
         }
     }
 }
