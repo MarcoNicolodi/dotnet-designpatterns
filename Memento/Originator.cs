@@ -27,12 +27,6 @@ namespace Memento
             LifePoints = state.LifePoints;
         }
 
-        public void LogState()
-        {
-            Console.WriteLine($"LifePoints: {LifePoints}");
-            Console.WriteLine($"Position: x:{Position.x},y:{Position.y}");
-        }
-
         class PlayerMemento : IMemento
         {
             public object State { get; set; }

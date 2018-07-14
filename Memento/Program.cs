@@ -1,4 +1,5 @@
 ﻿using System;
+using static System.Console;
 
 namespace Memento
 {
@@ -17,15 +18,24 @@ namespace Memento
             game.Player.Position = (4000, 15000);
             game.Checkpoint();
             game.GoBackInTime();
-            game.Player.LogState();
+            LogState(game);
+            game.GoBackInTime();
+            LogState(game);
+            game.GoBackInTime();
+            LogState(game);
             game.GoBackToTheFuture();
-            game.Player.LogState();
-            game.GoBackInTime();
-            game.GoBackInTime();
-            game.GoBackInTime();
-            game.Player.LogState();
+            LogState(game);
             game.GoBackToTheFuture();
-            game.Player.LogState();
+            LogState(game);
+            game.GoBackToTheFuture();
+            LogState(game);
+        }
+
+        static void LogState(Game game)
+        {
+
+            WriteLine($"LifePoints: {game.Player.LifePoints}");
+            WriteLine($"Position: x:{game.Player.Position.x},y:{game.Player.Position.y}");
         }
     }
 }

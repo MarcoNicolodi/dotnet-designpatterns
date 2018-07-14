@@ -1,3 +1,5 @@
+##personal notes
+
 The command pattern executes a method.
 
 Its good for implementing undoable actions.
