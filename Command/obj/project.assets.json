@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/slim/Área de Trabalho/dev/design-patterns/Command/Command.csproj",
+      "projectUniqueName": "/home/slim/Desktop/dev/design-patterns/Command/Command.csproj",
       "projectName": "Command",
-      "projectPath": "/home/slim/Área de Trabalho/dev/design-patterns/Command/Command.csproj",
+      "projectPath": "/home/slim/Desktop/dev/design-patterns/Command/Command.csproj",
       "packagesPath": "/home/slim/.nuget/packages/",
-      "outputPath": "/home/slim/Área de Trabalho/dev/design-patterns/Command/obj/",
+      "outputPath": "/home/slim/Desktop/dev/design-patterns/Command/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

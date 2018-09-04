@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/slim/Área de Trabalho/dev/design-patterns/Decorator/Decorator.csproj",
+      "projectUniqueName": "/home/slim/Desktop/dev/design-patterns/Decorator/Decorator.csproj",
       "projectName": "Decorator",
-      "projectPath": "/home/slim/Área de Trabalho/dev/design-patterns/Decorator/Decorator.csproj",
+      "projectPath": "/home/slim/Desktop/dev/design-patterns/Decorator/Decorator.csproj",
       "packagesPath": "/home/slim/.nuget/packages/",
-      "outputPath": "/home/slim/Área de Trabalho/dev/design-patterns/Decorator/obj/",
+      "outputPath": "/home/slim/Desktop/dev/design-patterns/Decorator/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

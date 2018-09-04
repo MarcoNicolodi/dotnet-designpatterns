@@ -10,8 +10,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program":
-                "${workspaceFolder}/Command/bin/Debug/netcoreapp2.1/Command.dll",
+            "program": "${workspaceFolder}/Command/bin/Debug/netcoreapp2.1/Command.dll",
             "args": [],
             "cwd": "${workspaceFolder}/Command",
             // For more information about the 'console' field, see https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md#console-terminal-window
@@ -25,8 +24,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program":
-                "${workspaceFolder}/Decorator/bin/Debug/netcoreapp2.1/Decorator.dll",
+            "program": "${workspaceFolder}/Decorator/bin/Debug/netcoreapp2.1/Decorator.dll",
             "args": [],
             "cwd": "${workspaceFolder}/Decorator",
             // For more information about the 'console' field, see https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md#console-terminal-window
@@ -40,10 +38,51 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program":
-                "${workspaceFolder}/Memento/bin/Debug/netcoreapp2.1/Memento.dll",
+            "program": "${workspaceFolder}/Memento/bin/Debug/netcoreapp2.1/Memento.dll",
             "args": [],
             "cwd": "${workspaceFolder}/Memento",
+            // For more information about the 'console' field, see https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md#console-terminal-window
+            "console": "internalConsole",
+            "stopAtEntry": false,
+            "internalConsoleOptions": "openOnSessionStart"
+        },
+        {
+            "name": ".NET Core Launch (Observer)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            // If you have changed target frameworks, make sure to update the program path.
+            "program": "${workspaceFolder}/Observer/bin/Debug/netcoreapp2.1/Observer.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Observer",
+            // For more information about the 'console' field, see https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md#console-terminal-window
+            "console": "internalConsole",
+            "stopAtEntry": false,
+            "internalConsoleOptions": "openOnSessionStart"
+        },
+        {
+            "name": ".NET Core Launch (Strategy)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            // If you have changed target frameworks, make sure to update the program path.
+            "program": "${workspaceFolder}/Strategy/bin/Debug/netcoreapp2.1/Strategy.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Strategy",
+            // For more information about the 'console' field, see https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md#console-terminal-window
+            "console": "internalConsole",
+            "stopAtEntry": false,
+            "internalConsoleOptions": "openOnSessionStart"
+        },
+        {
+            "name": ".NET Core Launch (TemplateMethod)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            // If you have changed target frameworks, make sure to update the program path.
+            "program": "${workspaceFolder}/TemplateMethod/bin/Debug/netcoreapp2.1/TemplateMethod.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/TemplateMethod",
             // For more information about the 'console' field, see https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md#console-terminal-window
             "console": "internalConsole",
             "stopAtEntry": false,
