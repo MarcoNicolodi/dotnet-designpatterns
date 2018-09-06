@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{D3035D73-BF6B-4FDC-A077-6FF0F8C62EA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.csproj", "{06CAB4C8-CC48-4ABB-B884-7EB0A73281FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -100,5 +102,17 @@ Global
 		{D3035D73-BF6B-4FDC-A077-6FF0F8C62EA5}.Release|x64.Build.0 = Release|Any CPU
 		{D3035D73-BF6B-4FDC-A077-6FF0F8C62EA5}.Release|x86.ActiveCfg = Release|Any CPU
 		{D3035D73-BF6B-4FDC-A077-6FF0F8C62EA5}.Release|x86.Build.0 = Release|Any CPU
+		{06CAB4C8-CC48-4ABB-B884-7EB0A73281FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06CAB4C8-CC48-4ABB-B884-7EB0A73281FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06CAB4C8-CC48-4ABB-B884-7EB0A73281FB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{06CAB4C8-CC48-4ABB-B884-7EB0A73281FB}.Debug|x64.Build.0 = Debug|Any CPU
+		{06CAB4C8-CC48-4ABB-B884-7EB0A73281FB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{06CAB4C8-CC48-4ABB-B884-7EB0A73281FB}.Debug|x86.Build.0 = Debug|Any CPU
+		{06CAB4C8-CC48-4ABB-B884-7EB0A73281FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06CAB4C8-CC48-4ABB-B884-7EB0A73281FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06CAB4C8-CC48-4ABB-B884-7EB0A73281FB}.Release|x64.ActiveCfg = Release|Any CPU
+		{06CAB4C8-CC48-4ABB-B884-7EB0A73281FB}.Release|x64.Build.0 = Release|Any CPU
+		{06CAB4C8-CC48-4ABB-B884-7EB0A73281FB}.Release|x86.ActiveCfg = Release|Any CPU
+		{06CAB4C8-CC48-4ABB-B884-7EB0A73281FB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
