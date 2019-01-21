@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.csproj", "{06CAB4C8-CC48-4ABB-B884-7EB0A73281FB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ChainOfResponsability", "ChainOfResponsability", "{303C7727-5D63-4A17-BBAE-5514D1E2D8ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsability", "ChainOfResponsability\src\ChainOfResponsability.csproj", "{45191410-24C2-41A7-BA26-ABC0BBA73209}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -114,5 +118,20 @@ Global
 		{06CAB4C8-CC48-4ABB-B884-7EB0A73281FB}.Release|x64.Build.0 = Release|Any CPU
 		{06CAB4C8-CC48-4ABB-B884-7EB0A73281FB}.Release|x86.ActiveCfg = Release|Any CPU
 		{06CAB4C8-CC48-4ABB-B884-7EB0A73281FB}.Release|x86.Build.0 = Release|Any CPU
+		{45191410-24C2-41A7-BA26-ABC0BBA73209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45191410-24C2-41A7-BA26-ABC0BBA73209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45191410-24C2-41A7-BA26-ABC0BBA73209}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{45191410-24C2-41A7-BA26-ABC0BBA73209}.Debug|x64.Build.0 = Debug|Any CPU
+		{45191410-24C2-41A7-BA26-ABC0BBA73209}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{45191410-24C2-41A7-BA26-ABC0BBA73209}.Debug|x86.Build.0 = Debug|Any CPU
+		{45191410-24C2-41A7-BA26-ABC0BBA73209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45191410-24C2-41A7-BA26-ABC0BBA73209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45191410-24C2-41A7-BA26-ABC0BBA73209}.Release|x64.ActiveCfg = Release|Any CPU
+		{45191410-24C2-41A7-BA26-ABC0BBA73209}.Release|x64.Build.0 = Release|Any CPU
+		{45191410-24C2-41A7-BA26-ABC0BBA73209}.Release|x86.ActiveCfg = Release|Any CPU
+		{45191410-24C2-41A7-BA26-ABC0BBA73209}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{45191410-24C2-41A7-BA26-ABC0BBA73209} = {303C7727-5D63-4A17-BBAE-5514D1E2D8ED}
 	EndGlobalSection
 EndGlobal
